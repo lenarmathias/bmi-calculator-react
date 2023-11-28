@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# BMI Calculator in React.js
+
+---
+
+## Overview
+
+This is a simple BMI (Body Mass Index) calculator project created for the purpose of practicing programming skills. The BMI calculator provides an estimate of the body fat percentage based on an individual's height and weight.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+---
+
+## Features
+
+- Calculates BMI based on user input of height and weight.
+- Categorizes the calculated BMI into weight categories: underweight, normal weight, overweight, or obese.
+- Offers a simple and intuitive user interface.
+
+---
+
+## Tools & Technologies
+
+- **Visual Studio Code**: A popular text editor that was used to write and edit the application's code.
+- **WebStorm**: Used as the primary integrated development environment (IDE) for coding and debugging, providing powerful features for efficient JavaScript development.
+- **Google Fonts**: A free online library of fonts that was used to enhance the application's typography and overall design.
+- **Git/GitHub**: A version control system and online repository that was used to track changes to the application's code.
+- **HTML**: The application's user interface is built using HTML, which allows for the creation of structured, well-formatted content.
+- **CSS**: The application's styling is done using CSS, which allows for the creation of visually appealing and responsive designs.
+- **JavaScript**: The application's logic is written in JavaScript, which enables dynamic and interactive functionality, such as real-time updates and user input validation.
+- **React.js**: The application uses React.js, a popular JavaScript library for building interactive user interfaces with efficiency and code reusability.
+
+---
 
 ## Available Scripts
 
@@ -13,11 +42,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -39,32 +63,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
