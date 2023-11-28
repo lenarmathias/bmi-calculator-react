@@ -28,6 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - **CSS**: The application's styling is done using CSS, which allows for the creation of visually appealing and responsive designs.
 - **JavaScript**: The application's logic is written in JavaScript, which enables dynamic and interactive functionality, such as real-time updates and user input validation.
 - **React.js**: The application uses React.js, a popular JavaScript library for building interactive user interfaces with efficiency and code reusability.
+-  **Styled Components**: [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components) Styled Components is a popular library for styling React components with a CSS-in-JS approach. It allows you to write CSS code directly within your JavaScript components, making it easier to manage and reuse styles in a component-based architecture.
 
 ---
 
