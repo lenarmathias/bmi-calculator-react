@@ -1,4 +1,5 @@
 import { createGlobalStyle } from "styled-components";
+import background from "./images/background.jpeg";
 
 export const GlobalStyleComponent = createGlobalStyle`
     html {
@@ -15,6 +16,11 @@ export const GlobalStyleComponent = createGlobalStyle`
         max-width: 90%;
         font-family: 'Montserrat', sans-serif;
         line-height: 1.5;
+        background-image: url("${background}");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
 
     button {
