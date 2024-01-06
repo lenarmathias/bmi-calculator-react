@@ -16,6 +16,7 @@ export const GlobalStyleComponent = createGlobalStyle`
         max-width: 90%;
         font-family: 'Montserrat', sans-serif;
         line-height: 1.5;
+        background-color: ${({ theme }) => theme.colors.mineShaft};
         background-image: url("${background}");
         background-attachment: fixed;
         background-size: cover;
