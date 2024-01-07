@@ -4,7 +4,7 @@ export const NavigationBarContainer = styled.div`
     background: linear-gradient(
         ${({ theme }) => theme.colors.gold},
         ${({ theme }) => theme.colors.goldenGrass}
-        );
+    );
     width: 100vw;
     height: 40px;
     position: fixed;
